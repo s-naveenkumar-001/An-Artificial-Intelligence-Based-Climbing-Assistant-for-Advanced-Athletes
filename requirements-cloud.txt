@@ -1,0 +1,25 @@
+# ClimbAssist AI - Cloud Deployment Requirements
+# Optimized for Streamlit Cloud (free tier)
+# Includes only essential packages that work reliably on cloud
+
+# Core dependencies
+streamlit>=1.28.0
+numpy>=1.23.0
+scipy>=1.10.0
+Pillow>=9.5.0
+
+# TensorFlow for MoveNet (pose detection)
+# Using tensorflow-cpu to reduce size
+tensorflow-cpu>=2.13.0
+tensorflow-hub>=0.13.0
+
+# PDF Generation
+fpdf2>=2.7.0
+
+# Utilities
+scikit-learn>=1.3.0
+networkx>=3.1
+matplotlib>=3.7.0
+
+# Optional but lightweight
+requests>=2.31.0
