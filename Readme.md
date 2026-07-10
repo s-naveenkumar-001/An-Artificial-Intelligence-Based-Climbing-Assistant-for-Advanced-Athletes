@@ -19,7 +19,7 @@
 
 **Author:** **Naveenkumar S**
 
-This project was presented at the **2026 IEEE Contemporary Computing Innovations Conference (CCIC 2026)**, technically co-sponsored by **IEEE Region 10**, where I participated as an **Author** for the paper **"Climb Assist AI for Pro Climbers."**
+This project was presented at the **2026 IEEE Contemporary Computing Innovations Conference (CCIC 2026)**, technically co-sponsored by **IEEE Region 10**, where I participated as an **Author** for the paper **"An Artificial Intelligence-Based Climbing Assistant for Advanced Athletes."**
 
 <p align="center">
   <img src="assets/certificate.png" alt="IEEE CCIC 2026 Participation Certificate" width="850">
